@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm $$Caleb Kugel$$ 👋
 
-<!--
-**ckugel/ckugel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on Graph Search Algorithms for path planning with obstacles
+- 🌱 I’m currently learning Advanced path planning algorithms (D* lite, Lifelong A*, RRT*)
+- 💬 Ask me about: really any robotics adjacent algorithms (Pose estimation, Control schemes, optimization, etc...)
+- 📫 How to reach me: Email: calebkugel1@gmail.com
+- ⚡ Fun fact: I've been programming for 6 years
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!---
+## My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ckugel&show_icons=true)
 -->
